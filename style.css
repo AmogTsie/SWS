@@ -210,7 +210,7 @@ a.active, a:hover{
         display: block;
     }
     nav ul li a{
-        font-size: 13.5px;
+        font-size: 14px;
         font-weight: 700;
     }
 }
@@ -233,7 +233,7 @@ a.active, a:hover{
 
     .hero img {
         margin-top: 1rem;
-        width: 22rem;
+        width: 22.4rem;
         height: 13rem;
     }
 
