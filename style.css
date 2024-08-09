@@ -223,7 +223,7 @@ a.active, a:hover{
    
     nav ul li{
         margin-top: 1rem;
-        padding: 8px;
+        padding: 3px;
     }
     a:hover,a.active{
         background: none;
