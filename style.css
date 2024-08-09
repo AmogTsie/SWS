@@ -224,7 +224,7 @@ a.active, a:hover{
     nav ul li{
         margin-top: 1rem;
         padding: 8px;
-        margin-left: 3rem;
+        margin-left: 10rem;
     }
     a:hover,a.active{
         background: none;
