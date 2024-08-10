@@ -196,16 +196,15 @@ a.active, a:hover{
     font-weight: 400;  
 }
 
-
-@media screen and (max-width: 952px){
+@media screen and (max-width: 600px){
     .logo{
         display: block; 
         margin: 0rem;   
         text-align: center;
-        margin-top: 2rem;
+        margin-top: 1rem;
     }
     .logo img{
-        margin: 0rem 50px;
+        margin: 0rem 64px;
         max-width: 70%;  
         display: block;
     }
@@ -213,18 +212,15 @@ a.active, a:hover{
         font-size: 14px;
         font-weight: 700;
     }
-}
-@media screen and (max-width: 952px){
     nav{
         margin-top: 3rem;
-        height: 40%;
-        width: 80%;
+        width: 90%;
     }
    
     nav ul li{
         margin-top: 1rem;
         padding: 0px;
-        margin-left: 1rem;
+        margin-left: 1.3rem;
     }
     a:hover,a.active{
         background: none;
@@ -234,7 +230,7 @@ a.active, a:hover{
 
     .hero img {
         margin-top: 1rem;
-        width: 22.4rem;
+        width: 23.4rem;
         height: 13rem;
     }
 
