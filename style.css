@@ -197,7 +197,7 @@ a.active, a:hover{
 }
 
 
-@media (max-width: 952px){
+@media screen and (max-width: 952px){
     .logo{
         display: block; 
         margin: 0rem;   
@@ -214,7 +214,7 @@ a.active, a:hover{
         font-weight: 700;
     }
 }
-@media (max-width: 768px){
+@media screen and (max-width: 850px){
     nav{
         margin-top: 3rem;
         height: 40%;
@@ -234,7 +234,7 @@ a.active, a:hover{
 
     .hero img {
         margin-top: 1rem;
-        width: 22.6rem;
+        width: 22.4rem;
         height: 13rem;
     }
 
